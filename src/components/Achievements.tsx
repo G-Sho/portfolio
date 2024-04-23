@@ -29,7 +29,7 @@ const Achievements: React.FC = () => {
       <Box p={2}>
         <Box display='flex' justifyContent='center' p={1} >
           <Typography variant='h5' >
-            ResearchAchievements
+            Achievements
           </Typography>
         </Box>
         <Box display='flex' justifyContent='center' p={1} >

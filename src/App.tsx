@@ -2,11 +2,11 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import MyAvatar from './components/MyAvatar'
 import About from './components/About'
-import Skills from './components/Skills'
 import Contact from './components/Contact'
 import ScrollUp from './utils/ScrollUp'
 import Career from './components/Career'
 import Achievements from './components/Achievements'
+import Studies from './components/Studies'
 
 const App: React.FC = () => {
   return (
@@ -23,8 +23,8 @@ const App: React.FC = () => {
       <section id='about'>
         <About />
       </section>
-      <section id='skills'>
-        <Skills />
+      <section id='studies'>
+        <Studies />
       </section>
       <section id='achievements'>
         <Achievements />

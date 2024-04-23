@@ -12,7 +12,7 @@ const useStyles = makeStyles({
   },
 });
 
-const Skills: React.FC = () => {
+const Studies: React.FC = () => {
   const classes = useStyles();
 
   return (
@@ -20,7 +20,7 @@ const Skills: React.FC = () => {
       <Box p={2}>
         <Box display='flex' justifyContent='center' p={1} >
           <Typography variant='h5' >
-            Skills
+            Studies
           </Typography>
         </Box>
         <Box display='flex' justifyContent='center' p={1} >
@@ -60,12 +60,9 @@ const Skills: React.FC = () => {
           </Card>
         </Box>
 
-
-
-
       </Box>
     </>
   );
 }
 
-export default Skills;
+export default Studies;
