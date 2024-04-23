@@ -22,7 +22,7 @@
     "typescript": "^4.0.3",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://G-Sho.github.io/portfolio",
+  "homepage": "https://G-Sho.github.io/portfolio/public",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
