@@ -2097,6 +2097,11 @@
     "@types/qs" "*"
     "@types/serve-static" "*"
 
+"@types/gh-pages@^6.1.0":
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@types/gh-pages/-/gh-pages-6.1.0.tgz#63c33b489f3a7618b136897ffb007076b47fe0b7"
+  integrity sha512-Ma9bmKkE+WUtywENLC1rSLXTW66cJHJMWX2RQrJTMKhYM8o+73bRJ1ebfo3RWXUcG+HW3khky2nhVaN7nCsa3Q==
+
 "@types/graceful-fs@^4.1.2":
   version "4.1.9"
   resolved "https://registry.npmjs.org/@types/graceful-fs/-/graceful-fs-4.1.9.tgz"
