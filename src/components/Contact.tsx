@@ -3,8 +3,6 @@ import Box from '@material-ui/core/Box'
 import Typography from '@material-ui/core/Typography'
 import { makeStyles } from '@material-ui/core/styles'
 import Link from '@material-ui/core/Link'
-import MailIcon from '@material-ui/icons/Mail'
-import TwitterIcon from '@material-ui/icons/Twitter'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import Avatar from '@material-ui/core/Avatar'
 import { green, blue, purple } from '@material-ui/core/colors'
@@ -41,21 +39,8 @@ const Contact: React.FC = () => {
             Contact
           </Typography>
         </Box>
-        {/** 何のアイコンを使うかは各自お好みで（今回はメール、Twitter、GithHub）*/}
         
         <Box className={classes.root} display='flex' justifyContent='center' p={1}>
-          {/**
-          <Link href='#' color='inherit'>
-            <Avatar className={classes.green}>
-              <MailIcon />
-            </Avatar>
-          </Link> 
-          */}
-          <Link href='#' color='inherit'>
-            <Avatar className={classes.blue}>
-              <TwitterIcon />
-            </Avatar>
-          </Link>
           <Link href='https://github.com/G-Sho' color='inherit'>
             <Avatar className={classes.purple}>
               <GitHubIcon />

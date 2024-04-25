@@ -1,5 +1,4 @@
 import React from 'react'
-// 追記
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import AppBar from '@material-ui/core/AppBar'
 import Toolbar from '@material-ui/core/Toolbar'
