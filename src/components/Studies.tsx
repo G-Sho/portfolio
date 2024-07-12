@@ -42,7 +42,7 @@ const Studies: React.FC = () => {
                 所属学会
               </Typography>
               <Typography color="textSecondary">
-                hoge
+                電気情報通信学会
               </Typography>
             </CardContent>
           </Card>
