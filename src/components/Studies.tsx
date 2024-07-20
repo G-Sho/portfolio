@@ -30,7 +30,7 @@ const Studies: React.FC = () => {
                 研究キーワード
               </Typography>
               <Typography color="textSecondary">
-                hoge / hoge / hoge
+                ICN / hoge / hoge
               </Typography>
             </CardContent>
           </Card>
@@ -42,7 +42,7 @@ const Studies: React.FC = () => {
                 所属学会
               </Typography>
               <Typography color="textSecondary">
-                hoge
+                電子情報通信学会 / hoge
               </Typography>
             </CardContent>
           </Card>
