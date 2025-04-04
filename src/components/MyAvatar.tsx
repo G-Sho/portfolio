@@ -35,7 +35,7 @@ const MyAvatar: React.FC = () => {
         </Box>
         <Box display='flex' justifyContent='center' p={1} >
           <Typography variant='body1'>
-          コミュニケーションサービスシステム研究室 (水野研究室) B4
+          コミュニケーションサービスシステム研究室 M1
           </Typography>
         </Box>
       </Box>
